@@ -1,4 +1,4 @@
-## Student Management System (C Project)
+## Student Management System (C Project – Linked List Version)
 
 ### Project Summary
 
